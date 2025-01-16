@@ -27,7 +27,7 @@ The repository includes the following steps and processes as described in the pa
 
 - **Model Training and Evaluation**:
   - Implements machine learning models, including XGBoost, AdaBoost, SVM, and Random Forest.
-  - Hyperparameter tuning using `GridSearchCV`.
+  - Hyperparameter tuning using `GridSearchCV`
 
 - **Calibration Methods**:
   - Includes Platt scaling (Sigmoid), Isotonic regression, Beta calibration, and Spline calibration.
@@ -44,7 +44,6 @@ The repository includes the following steps and processes as described in the pa
    ```bash
    git clone https://github.com/yourusername/RemissionClassifier.git
 
-   git clone https://github.com/yourusername/RemissionClassifier.git
 Set up the environment:
 
 Using Conda (recommended):
