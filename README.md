@@ -37,7 +37,7 @@ The repository includes preprocessing steps, model training, validation, and cal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RemissionClassifier.git
+   git clone https://github.com/fatemehsalehi/PRECISE-RA.git
 Set up the environment:
 
 Using Conda (recommended):
