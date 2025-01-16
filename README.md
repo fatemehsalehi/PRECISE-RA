@@ -60,7 +60,8 @@ The dependencies will be automatically installed when setting up the environment
 
 
 Dataset
-The repository does not include the datasets used in the study due to privacy concerns. Ensure your datasets are structured as described in the paper when running the code.
+The repository does not include the datasets used in the study due to privacy concerns. 
+The test dataset can be found on Zenodo with the identifier doi:10.5281/zenodo.12507169. Ensure your datasets are structured as described in the paper when running the code.
 
 
 Contact
